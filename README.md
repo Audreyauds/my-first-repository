@@ -8,7 +8,7 @@ Research
 
 <h3> :man_beard: &nbsp; About Me :point_down: </h3>
 
-<p><em>I am a Masters Student in Mathematical Sciences at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :books:
+<p><em>I am a Masters Student in Mathematical Sciences at the <a href="https://www.uct.ac.za/">University of Stellenbosch / African Institute for mathematical sciences</a></em> :books:
 
 Ask me about the following Density Functional Theory (DFT) & Boltzmann Transport Theory (BTT) packages: <em><a href="https://www.quantum-espresso.org/">Quantum Espresso</a></em>, <em><a href="http://www.wannier.org/">Wannier90</a></em>, <em><a href="http://www.wanniertools.com/">WannierTools</a></em>, <em><a href="https://z2pack.greschd.ch/en/latest/">Z2Pack</a></em>, <em><a href="https://epw-code.org/">Electron Phonon Wannier (EPW)</a></em>, <em><a href="https://gitlab.com/sousaw/BoltzTraP2">BoltzTrap2</a></em>, <em><a href="https://phonopy.github.io/phono3py/">Phono3py</a></em>, <em><a href="https://almabte.bitbucket.io/">AlmaBTE</a></em>, <em><a href="https://www.shengbte.org/">ShengBTE</a></em> & <em><a href="https://www.shengbte.org/announcements/thirdorderpyv110released">Thirdorder</a></em>.
 
