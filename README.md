@@ -6,7 +6,6 @@ Research
 
 <h1 align="center"> Hi, I am Audrey!:wave: </h1>
 
-<h3> :man_beard: &nbsp; About Me :point_down: </h3>
 
 <p><em>I am a Masters Student in Mathematical Sciences at the <a href="https://www.uct.ac.za/">University of Stellenbosch / African Institute for mathematical sciences</a></em> :books:
 
